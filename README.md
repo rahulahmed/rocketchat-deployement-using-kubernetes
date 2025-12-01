@@ -264,8 +264,8 @@ At this point, the platform is production-ready.
 ## Here is our dashboard:
 
 <img src="assets/rocketchat.png" width="600">
-<img src="assets/rocket-mobile-1.jpg" width="600">
-<img src="assets/rocket-mobile-2.jpg" width="600">
+<img src="assets/rocket-mobile-1.jpg" width="300">
+<img src="assets/rocket-mobile-2.jpg" width="300">
 
 
 
